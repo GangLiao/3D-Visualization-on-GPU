@@ -1,0 +1,115 @@
+﻿生成启动时间为 2015/11/17 22:36:49。
+     1>项目“C:\Users\Gang\Desktop\final\CS247_Assignment3\CS247_Assignment3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CS247_Assignment3.cpp
+         CS247_Assignment3.cpp
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.h(81): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(40): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(82): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(86): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(89): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(90): warning C4305: “参数”: 从“double”到“GLfloat”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(133): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(152): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(153): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(190): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(293): warning C4305: “+=”: 从“double”到“float”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(298): warning C4305: “-=”: 从“double”到“float”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(339): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(352): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(403): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(404): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(480): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(483): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(486): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(490): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(491): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(492): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(493): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(499): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(500): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(506): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(507): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(508): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(512): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(513): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(514): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(560): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(561): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(597): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(598): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(637): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(638): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(661): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(662): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(687): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(688): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(710): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(711): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(749): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(750): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(765): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(766): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(780): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(781): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(786): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(787): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(801): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(802): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(831): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(832): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(847): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(848): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(862): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(863): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(868): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(869): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(882): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(883): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(899): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(901): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(902): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(930): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1025): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1150): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1152): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1153): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1154): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1189): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1190): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1195): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1206): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1228): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1232): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1237): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(118) : 参见“strcat”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1261): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1264): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1266): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1302): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1306): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1316): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\gang\desktop\final\cs247_assignment3\cs247_assignment3.cpp(1435): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gang\Desktop\final\Debug\CS247_Assignment3.exe" /INCREMENTAL /NOLOGO /LIBPATH:./../Libraries/Win32 glew32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Gang\Desktop\final\Debug\CS247_Assignment3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gang\Desktop\final\Debug\CS247_Assignment3.lib" /MACHINE:X86 Debug\CS247_Assignment3.obj
+         CS247_Assignment3.vcxproj -> C:\Users\Gang\Desktop\final\Debug\CS247_Assignment3.exe
+     1>已完成生成项目“C:\Users\Gang\Desktop\final\CS247_Assignment3\CS247_Assignment3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.85

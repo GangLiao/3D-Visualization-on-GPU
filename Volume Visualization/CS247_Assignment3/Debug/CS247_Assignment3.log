@@ -1,0 +1,41 @@
+﻿生成启动时间为 2015/10/25 10:34:02。
+     1>项目“C:\Users\Gang\Desktop\CS247_Assignment3\CS247_Assignment3\CS247_Assignment3.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CS247_Assignment3.cpp
+         CS247_Assignment3.cpp
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(45): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(304) : 参见“sscanf”的声明
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(442): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(538): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(684): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(685): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(686): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(687): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(688): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(689): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(690): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(691): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(692): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(827): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(837): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(858): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(859): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(860): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(861): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(887): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(897): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(915): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(916): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(917): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(918): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+     1>c:\users\gang\desktop\cs247_assignment3\cs247_assignment3\cs247_assignment3.cpp(1026): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : 参见“fopen”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gang\Desktop\CS247_Assignment3\Debug\CS247_Assignment3.exe" /INCREMENTAL /NOLOGO /LIBPATH:./../Libraries/Win32 glew32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Gang\Desktop\CS247_Assignment3\Debug\CS247_Assignment3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gang\Desktop\CS247_Assignment3\Debug\CS247_Assignment3.lib" /MACHINE:X86 Debug\CS247_Assignment3.obj
+         CS247_Assignment3.vcxproj -> C:\Users\Gang\Desktop\CS247_Assignment3\Debug\CS247_Assignment3.exe
+     1>已完成生成项目“C:\Users\Gang\Desktop\CS247_Assignment3\CS247_Assignment3\CS247_Assignment3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.12
